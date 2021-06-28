@@ -3,5 +3,6 @@
 User-agent: *
 Disallow:
 # This line is edited in git remote repository.
+# This is an example of pull command.
 
 # some line
